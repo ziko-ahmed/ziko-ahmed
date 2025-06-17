@@ -1,41 +1,57 @@
-Hi, I’m Zulqarnain! 👋
+# ziko-ahmed / README.md
 
-Welcome to my GitHub! I’m a Computer Science undergraduate at IIIT Sri City, passionate about AI, software development, and building tech that matters. From intelligent systems to real-world products, I love blending deep learning with usability. 🚀
+## Hello, I'm Zulqarnain! 👋
 
-💡 About Me
+Welcome to my GitHub! I'm a Computer Science undergraduate at IIIT Sri City, passionate about using artificial intelligence, software engineering, and product development to create meaningful tech. I thrive on building AI-powered systems that solve real-world problems — from accessibility and automation to fintech and health tech. 🤖⚡
 
-🎓 B.Tech CSE @ IIIT Sri City (Class of 2027)  
-🤖 Enthusiastic about Artificial Intelligence, Software Engineering & Tech for Good  
-💬 Built LLM-powered chatbots, AI vs Human text classifiers, ASL recognition systems  
-🌐 Developed and deployed full-stack applications using Flutter, Streamlit, and more   
+---
 
-🛠️ Tools & Technologies
+## 💡 About Me
 
-**Languages:** Python, Java, C, Dart, SQL  
-**Frameworks/Libraries:** TensorFlow, PyTorch, Hugging Face, Scikit-learn, Streamlit  
-**Dev Tools:** Android Studio, Git, VS Code, Figma, Jupyter Notebook  
-**Databases:** MySQL, PostgreSQL, MongoDB  
-**App & Frontend Dev:** Flutter (Dart), HTML, CSS, JavaScript  
-**Concepts:** Deep Learning, NLP, Model Optimization, Prompt Engineering  
+🎓 B.Tech CSE student at IIIT Sri City (2027)  
+🧠 Passionate about AI, software product design, and tech-for-good initiatives  
+🚀 Experienced in LLM-powered bots, ASL recognition, and text classification  
+🛠️ Contributor to hackathons, research, and large-scale event operations  
+🍿 Movie buff, foodie, and someone who builds for fun just as much as for impact  
 
-🚀 Projects
+---
 
-- **ASL Recognition System**  
-  Deep learning-based system to translate sign language gestures into text using VGG16, MobileNet & Inception.  
+## 🛠️ Tools & Technologies
+
+### 👨‍💻 Programming & Development
+- Python, Java, C, Dart, SQL  
+- HTML, CSS, JavaScript  
+
+### 🧰 Tools & Frameworks
+- TensorFlow, PyTorch, Hugging Face, Scikit-learn  
+- Flutter, Streamlit, Pandas, NumPy  
+- Git, Android Studio, VS Code, Figma, Jupyter  
+
+### 🗃️ Databases
+- MySQL, PostgreSQL, MongoDB  
+
+---
+
+## 🚀 Projects
+
+- **ASL Recognition System**: Built a deep learning model (VGG16, MobileNet, Inception) to translate American Sign Language gestures into text for assistive communication.  
   🔗 [GitHub](https://github.com/ziko-ahmed/ASL)
 
-- **Healthcare Chatbot**  
-  Medical assistant built with Hugging Face Transformers & Streamlit, featuring secure sessions and interactive plots.  
+- **Healthcare Chatbot**: Developed a Hugging Face Transformers-based chatbot with Streamlit for health guidance, including secure sessions and interactive plots.  
   🔗 [GitHub](https://github.com/ziko-ahmed/Healthbot)
 
-- **AI vs Human Text Classifier**  
-  NLP classifier using Word2Vec + LSTM to detect AI-generated text with bias mitigation via oversampling.  
+- **AI vs Human Text Classifier**: Engineered a Word2Vec + LSTM-based NLP model to differentiate AI-generated content from human-written text.  
   🔗 [GitHub](https://github.com/ziko-ahmed/AI-v-s-Human-Text-Classification)
 
-📫 Let’s Connect!
+---
 
-🌐 [Portfolio Website](https://ziko-ahmed-portfolio.netlify.app)  
-💼 [LinkedIn](https://www.linkedin.com/in/zulqarnain-ahmed)  
-📧 Email: zulqar.ahmed.12@gmail.com  
+## 📫 Contact Me
 
-Always up for collaboration and meaningful tech conversations — let's build something impactful together!
+- 🌐 [Portfolio Website](https://ziko-ahmed-portfolio.netlify.app)  
+- 📧 Email: zulqar.ahmed.12@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/zulqarnain-ahmed)  
+- 🐙 [GitHub](https://github.com/ziko-ahmed)
+
+---
+
+Feel free to explore my repositories and reach out. Let's collaborate on something impactful! 🚀
