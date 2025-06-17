@@ -1,15 +1,13 @@
 Hi, I’m Zulqarnain! 👋
 
-Welcome to my GitHub! I’m a Computer Science undergraduate at IIIT Sri City, passionate about AI, full-stack development, and building tech that matters. From intelligent systems to real-world products, I love blending deep learning with usability. 🚀
+Welcome to my GitHub! I’m a Computer Science undergraduate at IIIT Sri City, passionate about AI, software development, and building tech that matters. From intelligent systems to real-world products, I love blending deep learning with usability. 🚀
 
 💡 About Me
 
 🎓 B.Tech CSE @ IIIT Sri City (Class of 2027)  
-🤖 Enthusiastic about Artificial Intelligence, Product Engineering & Tech for Good  
+🤖 Enthusiastic about Artificial Intelligence, Software Engineering & Tech for Good  
 💬 Built LLM-powered chatbots, AI vs Human text classifiers, ASL recognition systems  
-🌐 Developed and deployed full-stack applications using Flutter, Streamlit, and more  
-🏆 2nd place in AI/ML and App Development hackathons  
-📄 Co-authoring research on Quantum Machine Learning and Quantum-Inspired RL  
+🌐 Developed and deployed full-stack applications using Flutter, Streamlit, and more   
 
 🛠️ Tools & Technologies
 
