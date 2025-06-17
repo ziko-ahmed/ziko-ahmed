@@ -1,6 +1,4 @@
-# ziko-ahmed / README.md
-
-## Hello, I'm Zulqarnain! 👋
+# Hello, I'm Zulqarnain! 👋
 
 Welcome to my GitHub! I'm a Computer Science undergraduate at IIIT Sri City, passionate about using artificial intelligence, software engineering, and product development to create meaningful tech. I thrive on building AI-powered systems that solve real-world problems — from accessibility and automation to fintech and health tech. 🤖⚡
 
