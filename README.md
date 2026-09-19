@@ -45,7 +45,7 @@ Welcome to my GitHub! I'm a Computer Science undergraduate at IIIT Sri City, pas
 
 ## 📫 Contact Me
 
-- 🌐 [Portfolio Website](https://ziko-ahmed-portfolio.netlify.app)  
+- 🌐 [Portfolio Website](https://www.defnotzulqar.dev/)  
 - 📧 Email: zulqar.ahmed.12@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/zulqarnain-ahmed)  
 
